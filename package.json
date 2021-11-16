@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@shelf/aws-lambda-libreoffice": "^3.0.6",
-    "aws-sdk": "^2.685.0",
+    "aws-sdk": "^2.814.0",
     "crypto-js": "^3.1.9-1",
     "docxtemplater": "^3.17.6",
     "dotenv": "^8.2.0",
